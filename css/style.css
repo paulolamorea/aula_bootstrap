@@ -1,0 +1,25 @@
+
+.navbar {
+    background-color: #F3E666;
+}
+
+.equipamentos {
+    background-color: #A0F260;
+    color: black;
+    text-shadow: 0.1em 0.1em 0.15em #fff;
+}
+
+.margin {
+    padding-top: 30px;
+    padding-top: 10px;
+}
+
+.destaque {
+    background-color: #987CD6;
+    text-shadow: 0.1em 0.1em 0.15em #fff ;
+}
+
+.bg-footer {
+    background-color: black;
+    color: white;
+}
